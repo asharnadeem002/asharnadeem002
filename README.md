@@ -1,27 +1,59 @@
-# 💫 About Me:
-I am a software engineer open to learning and working with diverse technologies. I have extensive experience developing full-stack mobile and web applications using Next.js, React, Angular, and React Native for the frontend and Node.js and Django for the backend. My deployment experience includes Vercel and various VPS hosting platforms, and I am proficient in managing databases such as Supabase, MongoDB, PostgreSQL, and MySQL. <br>Currently, I am developing an auto-refinish paint management system used by multiple body shops in the UAE. I am also building an e-learning platform for the Indian market, designed to disrupt the traditional evening academy monopoly. Moving forward, I am eager to integrate AI into my projects, specifically focusing on LLM development and computer vision.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=transparent&height=140&text=Ashar%20Nadeem&fontSize=50&fontAlignY=38&animation=fadeIn&desc=Full-stack%20Engineer%20%C2%B7%20Web%2C%20Mobile%20%26%20AI&descSize=18&descAlignY=74&fontColor=EEF2F7&descColor=94A0B8" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&height=140&text=Ashar%20Nadeem&fontSize=50&fontAlignY=38&animation=fadeIn&desc=Full-stack%20Engineer%20%C2%B7%20Web%2C%20Mobile%20%26%20AI&descSize=18&descAlignY=74&fontColor=0D1117&descColor=57606A" alt="Ashar Nadeem, Full-stack Engineer" />
+  </picture>
+</p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Geist&weight=500&size=20&duration=3200&pause=900&center=true&vCenter=true&width=640&lines=I+build+web+and+mobile+products+end+to+end;Next.js+%C2%B7+Django+%C2%B7+React+Native+%C2%B7+Angular;Now+exploring+LLMs+and+computer+vision&color=2DD4BF" />
+    <img src="https://readme-typing-svg.demolab.com?font=Geist&weight=500&size=20&duration=3200&pause=900&center=true&vCenter=true&width=640&lines=I+build+web+and+mobile+products+end+to+end;Next.js+%C2%B7+Django+%C2%B7+React+Native+%C2%B7+Angular;Now+exploring+LLMs+and+computer+vision&color=0F766E" alt="I build web and mobile products end to end" />
+  </picture>
+</p>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/asharnadeem002) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/asharnadeem002) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/asharnadeem002) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/asharnadeem002) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/asharnadeem002) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:asharnadeem002@gmail.com) 
+<p align="center">
+  <a href="https://linkedin.com/in/asharnadeem002"><img height="28" src="https://img.shields.io/badge/LinkedIn-1A1B27?style=flat&logo=linkedin&logoColor=70A5FD" alt="LinkedIn" /></a>&nbsp;
+  <a href="https://x.com/asharnadeem002"><img height="28" src="https://img.shields.io/badge/X-1A1B27?style=flat&logo=x&logoColor=EEF2F7" alt="X" /></a>&nbsp;
+  <a href="https://github.com/asharnadeem002"><img height="28" src="https://img.shields.io/badge/GitHub-1A1B27?style=flat&logo=github&logoColor=EEF2F7" alt="GitHub" /></a>&nbsp;
+  <a href="https://facebook.com/asharnadeem002"><img height="28" src="https://img.shields.io/badge/Facebook-1A1B27?style=flat&logo=facebook&logoColor=70A5FD" alt="Facebook" /></a>&nbsp;
+  <a href="https://instagram.com/asharnadeem002"><img height="28" src="https://img.shields.io/badge/Instagram-1A1B27?style=flat&logo=instagram&logoColor=F472B6" alt="Instagram" /></a>&nbsp;
+  <a href="https://reddit.com/user/asharnadeem002"><img height="28" src="https://img.shields.io/badge/Reddit-1A1B27?style=flat&logo=reddit&logoColor=FB923C" alt="Reddit" /></a>&nbsp;
+  <a href="mailto:asharnadeem002@gmail.com"><img height="28" src="https://img.shields.io/badge/asharnadeem002%40gmail.com-1A1B27?style=flat&logo=gmail&logoColor=38BDAE" alt="Email asharnadeem002@gmail.com" /></a>
+</p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Esbuild](https://img.shields.io/badge/esbuild-%23FFCF00.svg?style=for-the-badge&logo=esbuild&logoColor=black) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![OpenAPI Specification](https://img.shields.io/badge/openapiinitiative-%23000000.svg?style=for-the-badge&logo=openapiinitiative&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=asharnadeem002&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=asharnadeem002&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=asharnadeem002&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <img width="100%" height="2" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:2DD4BF,50:60A5FA,100:A78BFA" alt="" />
+</p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=asharnadeem002&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+### About
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+I build products end to end: web, mobile and, increasingly, AI. I have extensive experience shipping full-stack applications with Next.js, React, Angular and React Native on the frontend and Node.js and Django on the backend, deployed on Vercel and VPS hosting and backed by Supabase, MongoDB, PostgreSQL and MySQL.
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=asharnadeem002&limit=5&theme=dark&combine_all_yearly_contributions=true)
+- **Now:** Building an auto-refinish paint management system used by multiple body shops in the UAE
+- **Also building:** An e-learning platform for the Indian market, designed to challenge the traditional evening academy model
+- **Next:** Integrating AI into my projects, with a focus on LLM development and computer vision
 
----
-[![](https://visitcount.itsvg.in/api?id=asharnadeem002&icon=0&color=0)](https://visitcount.itsvg.in)
+### Tech stack
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,ts,js,tailwind,vite,threejs&theme=dark" alt="React, Next.js, Angular, TypeScript, JavaScript, Tailwind CSS, Vite, Three.js" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,fastapi,flask,py,java,cpp&theme=dark" alt="Node.js, Express, Django, FastAPI, Flask, Python, Java, C++" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,supabase,prisma,redis,firebase&theme=dark" alt="PostgreSQL, MongoDB, MySQL, Supabase, Prisma, Redis, Firebase" />
+  <br />
+  <img src="https://skillicons.dev/icons?i=vercel,aws,azure,gcp,docker,git,github&theme=dark" alt="Vercel, AWS, Azure, Google Cloud, Docker, Git, GitHub" />
+</p>
+
+**Mobile:** React Native · Expo
+**AI and ML:** PyTorch · TensorFlow · Keras · OpenCV · scikit-learn
+**Tools:** Socket.io · Twilio · Postman · Jira · Selenium
+
+<p align="center">
+  <img width="100%" height="2" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:A78BFA,50:60A5FA,100:2DD4BF" alt="" />
+</p>
+
+<p align="center">
+  <sub>Have a product in mind? <a href="mailto:asharnadeem002@gmail.com">Let's build it.</a></sub>
+</p>
