@@ -1,14 +1,14 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=transparent&height=140&text=Ashar%20Nadeem&fontSize=50&fontAlignY=38&animation=fadeIn&desc=Tech%20Lead%20%C2%B7%20Full-stack%20and%20AI%20Engineer%20%C2%B7%20Lahore%2C%20Pakistan&descSize=18&descAlignY=74&fontColor=EEF2F7&descColor=94A0B8" />
-    <img src="https://capsule-render.vercel.app/api?type=transparent&height=140&text=Ashar%20Nadeem&fontSize=50&fontAlignY=38&animation=fadeIn&desc=Tech%20Lead%20%C2%B7%20Full-stack%20and%20AI%20Engineer%20%C2%B7%20Lahore%2C%20Pakistan&descSize=18&descAlignY=74&fontColor=0D1117&descColor=57606A" alt="Ashar Nadeem, Tech Lead and Full-stack and AI Engineer, Lahore, Pakistan" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=transparent&height=140&text=Ashar%20Nadeem&fontSize=50&fontAlignY=38&animation=fadeIn&desc=Full-stack%20and%20AI%20Engineer%20%C2%B7%20Lahore%2C%20Pakistan&descSize=18&descAlignY=74&fontColor=EEF2F7&descColor=94A0B8" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&height=140&text=Ashar%20Nadeem&fontSize=50&fontAlignY=38&animation=fadeIn&desc=Full-stack%20and%20AI%20Engineer%20%C2%B7%20Lahore%2C%20Pakistan&descSize=18&descAlignY=74&fontColor=0D1117&descColor=57606A" alt="Ashar Nadeem, Full-stack and AI Engineer, Lahore, Pakistan" />
   </picture>
 </p>
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Geist&weight=500&size=20&duration=3200&pause=900&center=true&vCenter=true&width=640&lines=I+build+web%2C+mobile+and+AI+products+end+to+end;Next.js+%C2%B7+Django+%C2%B7+React+Native+%C2%B7+RAG+chatbots;Tech+Lead+at+The+Ops+Lab+%C2%B7+Engineer+at+Kaizen+Paint&color=2DD4BF" />
-    <img src="https://readme-typing-svg.demolab.com?font=Geist&weight=500&size=20&duration=3200&pause=900&center=true&vCenter=true&width=640&lines=I+build+web%2C+mobile+and+AI+products+end+to+end;Next.js+%C2%B7+Django+%C2%B7+React+Native+%C2%B7+RAG+chatbots;Tech+Lead+at+The+Ops+Lab+%C2%B7+Engineer+at+Kaizen+Paint&color=0F766E" alt="I build web, mobile and AI products end to end" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Geist&weight=500&size=20&duration=3200&pause=900&center=true&vCenter=true&width=640&lines=I+build+web%2C+mobile+and+AI+products+end+to+end;Next.js+%C2%B7+Django+%C2%B7+React+Native+%C2%B7+RAG+chatbots;Software+Engineer+at+Kaizen+Paint;Technical+Consultant+at+The+Ops+Lab&color=2DD4BF" />
+    <img src="https://readme-typing-svg.demolab.com?font=Geist&weight=500&size=20&duration=3200&pause=900&center=true&vCenter=true&width=640&lines=I+build+web%2C+mobile+and+AI+products+end+to+end;Next.js+%C2%B7+Django+%C2%B7+React+Native+%C2%B7+RAG+chatbots;Software+Engineer+at+Kaizen+Paint;Technical+Consultant+at+The+Ops+Lab&color=0F766E" alt="I build web, mobile and AI products end to end" />
   </picture>
 </p>
 
@@ -30,8 +30,8 @@
 
 I build products end to end: web, mobile and AI. Since 2023 I've shipped Next.js, Django and Angular platforms, React Native apps, RAG chatbots and AI automations for clients and teams across the UK, the Middle East and South Asia, owning each project from requirements and API design through to deployment.
 
-- **Now:** Tech Lead at The Ops Lab, a UK technology and business consultancy, and main technical contact for clients in the UK, Sri Lanka, India and Pakistan
-- **Also now:** Full Stack Software Engineer at Kaizen Paint Middle East, building Precision, an offline-capable, multi-tenant auto-refinish platform live in UAE bodyshops
+- **Now:** Full Stack Software Engineer at Kaizen Paint Middle East, building Precision, an offline-capable, multi-tenant auto-refinish platform live in UAE bodyshops
+- **Also now:** Technical Consultant (contract, part-time) at The Ops Lab, a UK technology and business consultancy, working with clients in the UK, Sri Lanka, India and Pakistan
 - **Before:** Software Engineer at CredMinds (Doorly, Ad-Shield), Associate Software Engineer at Oxibit Technologies (led a team of 5)
 - **Education:** BS Computer Science, FAST-NUCES, Lahore (2021 to 2025)
 - **Languages:** Urdu (native), English (IELTS Academic 7.5, C1), learning German
