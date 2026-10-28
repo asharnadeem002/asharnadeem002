@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=transparent&height=140&text=Ashar%20Nadeem&fontSize=50&fontAlignY=38&animation=fadeIn&desc=Full-stack%20Engineer%20%C2%B7%20Web%2C%20Mobile%20%26%20AI&descSize=18&descAlignY=74&fontColor=EEF2F7&descColor=94A0B8" />
-    <img src="https://capsule-render.vercel.app/api?type=transparent&height=140&text=Ashar%20Nadeem&fontSize=50&fontAlignY=38&animation=fadeIn&desc=Full-stack%20Engineer%20%C2%B7%20Web%2C%20Mobile%20%26%20AI&descSize=18&descAlignY=74&fontColor=0D1117&descColor=57606A" alt="Ashar Nadeem, Full-stack Engineer" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=transparent&height=140&text=Ashar%20Nadeem&fontSize=50&fontAlignY=38&animation=fadeIn&desc=Full-stack%20Engineer%20%C2%B7%20Web%20%C2%B7%20Mobile%20%C2%B7%20AI&descSize=18&descAlignY=74&fontColor=EEF2F7&descColor=94A0B8" />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&height=140&text=Ashar%20Nadeem&fontSize=50&fontAlignY=38&animation=fadeIn&desc=Full-stack%20Engineer%20%C2%B7%20Web%20%C2%B7%20Mobile%20%C2%B7%20AI&descSize=18&descAlignY=74&fontColor=0D1117&descColor=57606A" alt="Ashar Nadeem, Full-stack Engineer" />
   </picture>
 </p>
 
